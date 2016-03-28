@@ -1,0 +1,9 @@
+
+Chowan, NC
+Number of Stations = 4
+
+
+Code 	Short Name                	Long Name                                         	# Stns	# Obs 	First Date	Last Date 	Min Value   	Max Value   	   Average
+-----	--------------------------	--------------------------------------------------	------	------	----------	----------	------------	------------	----------
+72019	DEPTH-FT BL LAND  SURFACE 	DEPTH TO WATER LEVEL (FEET BELOW LAND SURFACE)    	2     	10    	1975-11-11	1979-11-11	  1.80E+01  	  4.70E+01  	  3.19E+01
+82546	DEPTH FR M WL TO  MP  (FT)	WATER LEVEL,DISTANCE FROM MEASURING POINT  (FEET) 	2     	156   	1974-09-19	1988-05-26	  2.37E+01  	  7.29E+01  	  3.82E+01

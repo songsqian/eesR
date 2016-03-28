@@ -1,0 +1,13 @@
+
+Camden, NC
+Number of Stations = 3
+
+
+Code 	Short Name                	Long Name                                         	# Stns	# Obs 	First Date	Last Date 	Min Value   	Max Value   	   Average
+-----	--------------------------	--------------------------------------------------	------	------	----------	----------	------------	------------	----------
+72019	DEPTH-FT BL LAND  SURFACE 	DEPTH TO WATER LEVEL (FEET BELOW LAND SURFACE)    	2     	10    	1975-11-11	1979-11-11	  1.12E+02  	  2.90E+01  	  7.30E+01
+72020	ELEV     FEET AB  MSL     	ELEVATION IN FEET ABOVE MEAN SEA LEVEL            	1     	21    	1965-09-25	1965-09-25	  1.12E+03  	 -8.68E+02  	 -5.52E+02
+82546	DEPTH FR M WL TO  MP  (FT)	WATER LEVEL,DISTANCE FROM MEASURING POINT  (FEET) 	1     	16    	1983-01-31	1984-09-25	  1.06E+01  	  9.95E+00  	  7.14E+00
+84000	GEOLOGIC AGE      CODE    	GEOLOGIC AGE CODE (SEE USGS CATALOG)              	1     	11    	1965-09-25	1965-09-25	KLHST       	TRSHS       	
+84054	LITH-    OLOGY    CODE    	LITHOLOGY ALPHA-NUMERIC CODE                      	1     	20    	1965-09-25	1965-09-25	SICLS       	SSISH       	
+84058	HYDROGEO LOGICSYS CODE    	HYDROGEOLOGIC SYSTEM ALPHA-NUMERIC CODE           	1     	10    	1965-09-25	1965-09-25	BSMHS       	TRTHS       	

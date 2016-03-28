@@ -1,0 +1,90 @@
+Reference,Microorganism,Strain,UVDose,LogInactivation,Censored,Filtered,Turbidity
+Clancy et al. 2000,Cryptosporidium,Iowa,3,3,No,F,NA
+Clancy et al. 2000,Cryptosporidium,Iowa,6,3,No,F,NA
+Clancy et al. 2000,Cryptosporidium,Iowa,9,3.5,No,F,NA
+Clancy et al. 2000,Cryptosporidium,Iowa,8,4.1,No,F,NA
+Clancy et al. 2000,Cryptosporidium,Iowa,16,4.3,No,F,NA
+Clancy et al. 2000,Cryptosporidium,Iowa,33,5,Yes,F,NA
+Clancy et al. 2002,Cryptosporidium,Iowa,0,0,No,F,NA
+Clancy et al. 2002,Cryptosporidium,TAMU,0,0,No,F,NA
+Clancy et al. 2002,Cryptosporidium,Maine,0,0,No,F,NA
+Clancy et al. 2002,Cryptosporidium,Glasgow,0,0,No,F,NA
+Clancy et al. 2002,Cryptosporidium,Moredun,0,0.8,No,F,NA
+Clancy et al. 2002,Cryptosporidium,Iowa,2,3.2,No,F,NA
+Clancy et al. 2002,Cryptosporidium,Iowa,4,4.1,No,F,NA
+Clancy et al. 2002,Cryptosporidium,Maine,5,4.3,No,F,NA
+Clancy et al. 2002,Cryptosporidium,TAMU,10,5.2,No,F,NA
+Clancy et al. 2002,Cryptosporidium,Glasgow,5,5.6,No,F,NA
+Clancy et al. 2002,Cryptosporidium,Maine,20,5.9,No,F,NA
+Clancy et al. 2002,Cryptosporidium,Moredun,10,5.6,Yes,F,NA
+Clancy et al. 2002,Cryptosporidium,Glasgow,20,5.7,Yes,F,NA
+Clancy et al. 2002,Cryptosporidium,Moredun,40,4.9,Yes,F,NA
+Clancy et al. 2002,Cryptosporidium,TAMU,40,5.5,Yes,F,NA
+Craik et al. 2001,Cryptosporidium,Iowa,2.4,1,No,F,NA
+Craik et al. 2001,Cryptosporidium,Iowa,4.9,2.8,No,F,NA
+Craik et al. 2001,Cryptosporidium,Iowa,0.9,3.2,No,F,NA
+Craik et al. 2001,Cryptosporidium,Iowa,116.9,3.6,No,F,NA
+Craik et al. 2001,Cryptosporidium,Iowa,9.5,4,No,F,NA
+Craik et al. 2001,Cryptosporidium,Iowa,29.3,4.3,No,F,NA
+Craik et al. 2001,Cryptosporidium,Iowa,9.7,3.7,Yes,F,NA
+Craik et al. 2001,Cryptosporidium,Iowa,29.3,3.7,Yes,F,NA
+Landis et al. 2000,Cryptosporidium,Iowa,1,0.4,No,F,NA
+Landis et al. 2000,Cryptosporidium,Iowa,2,1.2,No,F,NA
+Landis et al. 2000,Cryptosporidium,Iowa,6,1.2,No,F,NA
+Landis et al. 2000,Cryptosporidium,Iowa,4,1.4,No,F,NA
+Landis et al. 2000,Cryptosporidium,Iowa,8,1.5,No,F,NA
+Landis et al. 2000,Cryptosporidium,Iowa,10,3,No,F,NA
+Landis et al. 2000,Cryptosporidium,Iowa,20,3.6,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,1.2,0.6,No,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,1.2,0.7,No,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,1.2,0.8,No,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,1.2,0.8,No,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,1.2,1,No,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,2,1.7,No,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,2,1.7,No,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,2.5,2.8,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,3.7,2.75,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,3.7,2.8,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,3.7,2.95,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,3.7,3.36,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,6.2,2.7,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,12.3,2,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,12.3,2.8,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,12.3,3,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,12.3,3.4,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,12.3,3.2,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,62,2,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,123,2,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,369,2,Yes,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,0,0,No,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,1,0.7,No,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,2,1.93,No,F,NA
+Shin et al. Cincinnati water,Cryptosporidium,Iowa,3,3.23,Yes,F,NA
+Sommer et al. 2001,Cryptosporidium,Iowa,0.5,0,No,F,NA
+Sommer et al. 2001,Cryptosporidium,Iowa,1,0.22,No,F,NA
+Sommer et al. 2001,Cryptosporidium,Iowa,1,0.47,No,F,NA
+Sommer et al. 2001,Cryptosporidium,Iowa,0.5,0.63,No,F,NA
+Sommer et al. 2001,Cryptosporidium,Iowa,2,2.06,No,F,NA
+Sommer et al. 2001,Cryptosporidium,Iowa,3,2.46,No,F,NA
+Sommer et al. 2001,Cryptosporidium,Iowa,2,2.52,No,F,NA
+Oppenheimer et al. 2002,Cryptosporidium,,0.5,0.19,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,1,0.76,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,1.8,1.94,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,3.6,2.76,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,7.3,3.8,Yes,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,0.5,0.3,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,1,0.26,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,1.8,0.5,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,3.6,3.24,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,7.3,3.24,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,0.5,0.26,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,1,0,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,1.8,1.69,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,3.6,3.61,No,UF - Bull Run,0.65 NTU
+Oppenheimer et al. 2002,Cryptosporidium,,7.3,3.61,Yes,UF - Bull Run,0.65 NTU
+NYC,Cryptosporidium,Iowa,10,4.1,Yes,UF - Cat-Del,0.6 NTU
+NYC,Cryptosporidium,Iowa,10,5,Yes,UF - Cat-Del,0.6 NTU
+NYC,Cryptosporidium,Iowa,20,4.2,Yes,UF - Cat-Del,0.6 NTU
+NYC,Cryptosporidium,Iowa,20,5.1,No,UF - Cat-Del,0.6 NTU
+NYC,Cryptosporidium,Iowa,40,3.9,Yes,UF - Cat-Del,0.6 NTU
+NYC,Cryptosporidium,Iowa,40,5,Yes,UF - Cat-Del,0.6 NTU

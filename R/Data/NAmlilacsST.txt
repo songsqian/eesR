@@ -1,0 +1,1128 @@
+ID       Station                              State   Lat       Long       Elev
+20309    APACHE POWDER COMPANY                AZ      31.54     -110.16    1125
+20958    BOWIE                                AZ      32.2      -109.29    1145.12
+21101    BURRUS RANCH                         AZ      35.16     -111.32    2073.17
+21614    CHILDS                               AZ      34.21     -111.42    807.93
+21634    CHINLE                               AZ      36.09     -109.32    1688.41
+21749    CIBECUE                              AZ      34.03     -110.27    1615.85
+21870    COCHISE POWER HOUSE                  AZ      32.04     -109.54    1286.59
+22440    DAVIS DAM                            AZ      35.12     -114.34    161.59
+22669    DOUGLAS SMELTER                      AZ      31.21     -109.35    1211.28
+22754    DUNCAN                               AZ      32.44     -109.06    1110.37
+22779    EAGLE CREEK RANGER STN               AZ      33.24     -109.29    1554.88
+22781    EAGLE CREEK 2                        AZ      33.21     -109.29    1484.76
+23250    FREDONIA                             AZ      36.57     -112.32    1463.41
+23498    GLOBE RANGER STN                     AZ      33.23     -110.47    1079.27
+23663    GRAY MOUNTAIN TRADING POST           AZ      35.44     -111.29    1524.39
+23683    GREER                                AZ      34.01     -109.27    2582.32
+24327    INNER BASIN                          AZ      35.2      -111.39    2111.28
+24508    JUNIPINE                             AZ      34.58     -111.45    1562.2
+24639    KINGMAN                              AZ      35.11     -114.03    1019.82
+25921    NOGALES                              AZ      31.21     -110.55    1161.59
+26119    ORACLE 4 SE                          AZ      32.34     -110.43    1384.15
+26320    PAYSON RANGER STN                    AZ      34.14     -111.2     1478.05
+26353    PEARCE                               AZ      31.54     -109.49    1347.56
+26561    PINAL RANCH                          AZ      33.21     -111       1378.05
+26597    PINETOP                              AZ      34.07     -109.56    2195.12
+26616    PIPE SPRINGS NATL MONUMENT           AZ      36.52     -112.44    1500
+26801    PRESCOTT WBO                         AZ      34.39     -112.26    1529.57
+27390    SAFFORD EXPERIMENT FARM              AZ      32.49     -109.41    900.61
+27445    SALA RANCH                           AZ      31.51     -110       1582.32
+27475    SAN CARLOS                           AZ      33.21     -110.27    805.79
+27530    SAN MANUEL                           AZ      32.37     -110.39    1085.37
+27593    SANTA RITA EXPERMENT RANGE           AZ      31.46     -110.51    1310.98
+27716    SELIGMAN                             AZ      35.19     -112.53    1591.16
+27876    SIERRA ANCHA                         AZ      33.48     -110.58    1554.88
+28012    SNOWFLAKE                            AZ      34.3      -110.05    1716.46
+28184    STANTON                              AZ      34.1      -112.44    1067.07
+28499    TEMPE ASU                            AZ      33.23     -111.58    359.76
+28778    TRUXTON CANYON                       AZ      35.23     -113.4     1164.63
+28792    TUBA CITY                            AZ      36.08     -111.15    1513.72
+28810    TUCSON NURSERY                       AZ      32.17     -111.02    751.52
+29271    WHITERIVER                           AZ      33.5      -109.58    1597.87
+29334    WILLCOX                              AZ      32.18     -109.51    1277.44
+29439    WINSLOW AP                           AZ      35.01     -110.44    1487.8
+40014    ACTON FC261                          CA      34.3      -118.17    890.24
+40029    ADIN RS                              CA      41.12     -120.57    1278.35
+40088    ALDERPOINT                           CA      40.11     -123.36    132.62
+40161    ALTURAS RANGER STATION               CA      41.29     -120.32    1330.79
+40212    ANGWIN                               CA      38.35     -122.26    553.35
+40383    AUBURN                               CA      38.54     -121.04    395.43
+40514    BARRETT DAM                          CA      32.41     -116.4     494.82
+40738    BIG BAR RANGER STATION               CA      40.45     -123.15    388.11
+40779    BIG PINES PARK FC83B                 CA      34.23     -117.41    2092.07
+40931    BOCA                                 CA      39.23     -120.06    1686.59
+41010    BOULEVARD 2                          CA      32.4      -116.18    1097.56
+41018    BOWMAN DAM                           CA      39.27     -120.4     1630.18
+41080    BRIDGEVILLE 4 NNW                    CA      40.32     -123.49    625
+41112    BROOKS FARNHAM RANCH                 CA      38.46     -122.09    106.71
+41130    BRUSH CREEK RANGER STN               CA      39.41     -121.2     1067.07
+41170    BUENA VISTA                          CA      36.46     -121.11    500
+41214    BURNEY                               CA      40.53     -121.4     957.32
+41215    BURNT RANCH 1 S                      CA      40.48     -123.28    640.24
+41300    CALIF HOT SPRINGS RANGER STN         CA      35.52     -118.41    945.12
+41428    CAMP PARDEE                          CA      38.15     -120.51    200.61
+41476    CANBY RANGER STN                     CA      41.27     -120.52    1314.63
+41614    CEDARVILLE                           CA      41.32     -120.1     1423.78
+41624    CENTERVILLE PH                       CA      39.47     -121.4     159.15
+41653    CHALLENGE RANGER STN                 CA      39.29     -121.13    780.49
+41700    CHESTER                              CA      40.18     -121.14    1381.1
+41739    CHITTENDEN PASS                      CA      36.54     -121.36    38.11
+41743    CHOLAME ALLEY RANCH                  CA      35.41     -120.12    602.13
+41754    CHUCHUPATE RANGER STN                CA      34.48     -119.01    1603.66
+41784    CLARKSBURG                           CA      38.25     -121.32    4.27
+41838    CLOVERDALE                           CA      38.46     -122.59    97.56
+41896    COLBYS FC 53D                        CA      34.18     -118.07    1120.43
+41907    COLEMAN FISH HATCHERY                CA      40.24     -122.08    132.62
+41948    COLUSA 1 SSW                         CA      39.12     -122.01    18.29
+41962    CONCORD 3 ESE                        CA      37.58     -121.59    59.45
+42218    CUMMINGS                             CA      39.5      -123.28    403.66
+42294    DAVIS                                CA      38.32     -121.46    15.55
+42306    DAY                                  CA      41.13     -121.23    1112.8
+42406    DESCANSO RANGER STN                  CA      32.51     -116.37    1082.32
+42500    DOWNIEVILLE RANGER STATION           CA      39.34     -120.5     882.62
+42506    DOYLE 4 SSE                          CA      39.57     -120.05    1336.89
+42539    DUDLEYS                              CA      37.45     -120.06    914.63
+42568    DUNNIGAN                             CA      38.53     -121.58    20.73
+42572    DUNSMUIR                             CA      41.13     -122.16    737.8
+42580    DUTTONS LANDING                      CA      38.12     -122.18    9.15
+42728    ELECTRA POWER HOUSE                  CA      38.2      -120.4     217.99
+42735    ELIZABETH LAKE CN FC12               CA      34.36     -118.34    632.62
+42749    ELK VALLEY                           CA      42        -123.43    521.65
+42899    ETNA                                 CA      41.28     -122.54    899.09
+42934    FAIRFIELD                            CA      38.15     -122.03    5.79
+42941    FAIRMONT                             CA      34.42     -118.26    932.93
+42958    FALLBROOK                            CA      33.21     -117.15    165.24
+43038    FIDDLETOWN DEXTER RANCH              CA      38.31     -120.42    640.24
+43118    FONTANA 5 N                          CA      34.11     -117.27    601.22
+43130    FOREST GLEN                          CA      40.23     -123.2     713.41
+43134    FORESTHILL RANGER STN                CA      39.01     -120.5     1025.91
+43173    FORT DICK                            CA      41.52     -124.09    14.02
+43176    FORT JONES 6 ESE                     CA      41.35     -122.43    1013.41
+43182    FORT JONES RANGER STN                CA      41.36     -122.51    837.5
+43242    FRENCH GULCH                         CA      40.42     -122.38    335.37
+43338    GARDEN VALLEY 2 S                    CA      38.5      -120.51    591.46
+43384    GEORGETOWN RANGER STN                CA      38.55     -120.47    914.94
+43402    GIBRALTAR DAM 2                      CA      34.31     -119.41    472.56
+43463    GLENNVILLE                           CA      35.43     -118.42    957.32
+43491    GOLD RUN                             CA      39.1      -120.52    987.8
+43669    GROVELAND 2                          CA      37.5      -120.14    880.18
+43672    GROVELAND RANGER STN                 CA      37.49     -120.06    955.79
+43710    HAIWEE                               CA      36.08     -117.57    1166.16
+43761    HAPPY CAMP RANGER STN                CA      41.48     -123.23    338.41
+43791    HARRISON GULCH R S                   CA      40.22     -122.58    826.22
+43800    HARRY ENGLEBRIGHT DAM                CA      39.14     -121.16    176.83
+43821    HAT CREEK RANGER STN                 CA      40.48     -121.3     1020.73
+43824    HAT CREEK                            CA      40.56     -121.33    919.21
+43859    HAYFORK RANGER STN                   CA      40.33     -123.1     715.24
+43875    HEALDSBURG                           CA      38.37     -122.52    30.79
+43925    HERNANDEZ 2 NW                       CA      36.24     -120.5     658.54
+43928    HERNANDEZ 7 SE                       CA      36.18     -120.42    842.99
+44082    HOOPA                                CA      41.03     -123.4     106.71
+44097    HOPLAND 8 NE                         CA      39.01     -123       765.24
+44144    HUASNA                               CA      35.06     -120.23    217.99
+44191    HYAMPOM                              CA      40.37     -123.27    384.15
+44208    IDYLLWILD                            CA      38.42     -121.08    42.07
+44232    INDEPENDENCE                         CA      36.48     -118.12    1204.27
+44405    JOSHUA TREE                          CA      34.09     -116.19    847.56
+44418    JULIAN WYNOLA                        CA      33.06     -116.39    1114.33
+44518    KERN RIVER INTAKE 3                  CA      35.57     -118.29    1112.8
+44536    KETTLEMAN STATION                    CA      36.04     -120.05    154.88
+44587    KNEELAND 10 SSE                      CA      40.38     -123.54    718.29
+44660    LA HONDA                             CA      37.19     -122.16    204.27
+44690    LAKE MOUNTAIN                        CA      40.01     -123.24    966.46
+44703    LAKEPORT SCS                         CA      39.02     -122.55    413.41
+44812    LAS PLUMAS                           CA      39.41     -121.29    154.27
+44851    LAYTONVILLE                          CA      39.42     -123.29    500
+44886    LEHMAN RANCH                         CA      38.36     -121.01    182.93
+44890    LEMON COVE                           CA      36.23     -119.02    156.4
+45002    LLANO SHAWNEE HILLS RC               CA      34.28     -117.45    868.9
+45017    LOCKWOOD                             CA      35.58     -121.05    336.59
+45032    LODI                                 CA      38.07     -121.17    15.24
+45067    LONE PINE COTTONWOOD PH              CA      36.26     -118.03    1204.27
+45107    LOS ALAMOS                           CA      34.45     -120.17    172.26
+45118    LOS BANOS                            CA      37.03     -120.51    38.11
+45147    LOS PRIETOS RANGER STN               CA      34.33     -119.47    304.88
+45258    MAHNKE                               CA      38.51     -122.47    730.18
+45284    MAMMOTH PASS                         CA      37.37     -119.02    2097.56
+45346    MARIPOSA                             CA      37.29     -119.58    613.11
+45371    MARTINEZ 2 S                         CA      37.58     -122.08    68.6
+45535    MERCED 2                             CA      37.19     -120.29    51.83
+45598    MIDDLETOWN                           CA      38.45     -122.37    342.07
+45623    MILFORD LAUFMAN RS                   CA      40.08     -120.21    1481.71
+45629    MILL CREEK 2                         CA      34.05     -117.02    903.96
+45823    MOORPARK                             CA      34.17     -118.53    158.54
+45909    MOUNT DANAHER                        CA      38.45     -120.4     1039.02
+45941    MOUNT HEBRON RNG STN                 CA      41.47     -122       1295.73
+46122    NEENACH                              CA      34.48     -118.35    879.57
+46252    NORTH FORK RANGER STN                CA      37.14     -119.3     801.83
+46328    OAK KNOLL RANGER STN                 CA      41.5      -122.51    598.48
+46525    OROVILLE BRIDGE                      CA      39.31     -121.34    50.3
+46597    PACIFIC HOUSE                        CA      38.45     -120.3     1048.78
+46610    PAICINES OHRWALL RANCH               CA      36.44     -121.22    289.63
+46657    PALOMAR MOUNTAIN OBSERVATORY         CA      33.21     -116.51    1695.12
+46675    PANOCHE                              CA      36.36     -120.52    402.44
+46703    PARKFIELD                            CA      35.53     -120.26    451.83
+46726    PASKENTA RANGER STN                  CA      39.53     -122.33    230.18
+46829    PETALUMA 1 N                         CA      38.15     -122.38    9.15
+46891    PINE CANYON PS FC321E                CA      34.4      -118.26    1001.83
+46962    PLACERVILLE IFG                      CA      38.44     -120.44    842.99
+46998    PLUMAS EUREKA STATE PARK             CA      39.45     -120.42    1574.7
+47050    POMONA                               CA      34.04     -117.46    260.67
+47077    PORTERVILLE                          CA      36.04     -119.01    119.82
+47096    POSEY 3 E                            CA      35.48     -118.38    1512.2
+47195    QUINCY                               CA      39.56     -120.57    1039.33
+47292    RED BLUFF                            CA      40.09     -122.15    104.27
+47473    RIVERSIDE CITRUS EXP STN             CA      33.58     -117.2     318.6
+47516    ROCKLIN                              CA      38.48     -121.14    72.87
+47643    SAINT HELENA                         CA      38.3      -122.28    77.74
+47646    SAINT HELENA 4 WSW                   CA      38.3      -122.32    546.34
+47681    SALSIPUEDES GAUGING STN              CA      34.35     -120.24    76.22
+47689    SALT SPRINGS PWR HOUSE               CA      38.3      -120.13    1128.05
+47719    SAN BENITO                           CA      36.31     -121.05    414.63
+47723    SAN BERNARDINO                       CA      34.08     -117.06    342.99
+47779    SAN GABRIEL DAM FC425B               CA      34.12     -117.52    451.52
+47807    SAN GREGORIO 2 SE                    CA      37.18     -122.22    114.33
+47810    SAN JACINTO                          CA      33.47     -116.58    472.56
+47916    SANTA CRUZ                           CA      36.59     -122.01    38.11
+47965    SANTA ROSA                           CA      38.27     -122.43    50.91
+48014    SAUGUS POWER PLANT 1                 CA      34.35     -118.27    641.77
+48025    SAWYERS BAR RANGER STN               CA      41.18     -122.55    661.28
+48068    SEARSVILLE LAKE                      CA      37.24     -122.14    106.71
+48135    SHASTA DAM                           CA      40.43     -122.25    216.46
+48218    SIERRAVILLE RANGER STN               CA      39.35     -120.22    1516.77
+48346    SOMESBAR 1 W                         CA      41.23     -123.29    167.68
+48353    SONORA                               CA      37.59     -120.23    557.93
+48446    SPRECKELS                            CA      36.36     -121.41    18.29
+48460    SPRINGVILLE RANGER STN               CA      36.08     -118.48    320.12
+48580    STONYFORD                            CA      39.23     -122.33    356.1
+48606    STRAWBERRY VALLEY                    CA      39.34     -121.06    1160.98
+48627    SUEY RANCH                           CA      35        -120.23    118.9
+48702    SUSANVILLE                           CA      40.23     -120.33    1264.63
+48703    SUSANVILLE 1 WNW                     CA      40.26     -120.4     1388.72
+48826    TEHACHAPI                            CA      35.08     -118.27    1211.89
+48997    TRACY 2 SSE                          CA      37.43     -121.25    32.01
+49043    TRUCKEE RANGER STN                   CA      39.2      -120.11    1817.07
+49053    TULELAKE                             CA      41.58     -121.28    1233.23
+49122    UKIAH                                CA      39.09     -123.12    189.94
+49124    UKIAH 4 WSW                          CA      39.08     -123.16    579.27
+49126    UKIAH 4 W                            CA      39.09     -123.16    472.56
+49167    UPPER LAKE 7 W                       CA      39.11     -123.02    464.63
+49325    VICTORVILLE                          CA      34.33     -117.18    884.15
+49351    VINTON                               CA      39.49     -120.11    1507.62
+49382    VOLCANOVILLE                         CA      38.59     -120.47    925.61
+49386    VOLLMERS                             CA      40.57     -122.26    405.49
+49418    WALLACE                              CA      38.11     -120.58    65.24
+49512    WELDON                               CA      35.4      -118.18    817.07
+49583    WEST POINT 3 SW                      CA      38.22     -120.33    731.71
+49615    WHEELER SPRINGS 2 SW                 CA      34.29     -119.18    268.29
+49699    WILLOWS                              CA      39.32     -122.12    42.68
+49754    WOFFORD HEIGHTS KERNVILLE            CA      35.43     -118.27    823.17
+49851    YORKVILLE                            CA      38.55     -123.16    365.85
+49866    YREKA                                CA      41.43     -122.38    802.13
+50109    AKRON 4 E                            CO      40.1      -103.09    1390.24
+50214    ALTENBERN                            CO      39.3      -108.23    1734.76
+50304    ARAPAHOE                             CO      38.51     -102.11    1223.48
+50348    ARRIBA                               CO      38.55     -103.05    1459.45
+50370    ASPEN                                CO      39.11     -106.5     2417.07
+50454    BAILEY                               CO      39.24     -105.29    2357.62
+50514    BASALT                               CO      39.22     -107.02    2019.51
+50776    BLANCA                               CO      37.26     -105.31    2287.5
+50810    BOND                                 CO      39.53     -106.42    2042.68
+50834    BONNY LAKE                           CO      39.38     -102.11    1142.68
+50945    BRIGGSDALE                           CO      40.39     -104.2     1486.28
+51071    BUENA VISTA                          CO      38.51     -106.08    2445.12
+51179    BYERS                                CO      39.43     -104.13    1595.43
+51308    GRENORA                              ND      37.43     -109.05    2067.07
+51440    CEDAREDGE                            CO      38.54     -107.56    1882.62
+51458    CENTER                               CO      37.45     -106.07    2337.8
+51528    CHEESMAN                             CO      39.13     -105.17    2096.04
+51564    CHEYENNE WELLS                       CO      38.49     -102.21    1309.45
+51693    COALDALE                             CO      38.23     -105.47    1989.33
+51741    COLLBRAN                             CO      39.15     -107.58    1823.17
+51928    CRAIG                                CO      40.31     -107.33    1916.16
+52184    DEL NORTE                            CO      37.4      -106.21    2403.66
+52192    DELTA                                CO      38.45     -108.03    1562.5
+52220    DENVER WSFO AIRPORT                  CO      39.46     -104.53    1613.41
+52225    DENVER WSO CITY                      CO      39.45     -105       1591.77
+52312    DOHERTY RANCH                        CO      37.23     -103.53    1564.02
+52326    DOLORES                              CO      37.28     -108.3     2118.9
+52446    EADS                                 CO      38.29     -102.47    1298.17
+52494    EASTONVILLE 1 NNW                    CO      39.05     -104.34    2210.37
+52535    ECKLEY                               CO      40.07     -102.29    1189.02
+52600    ELBERT 6 SSE                         CO      39.08     -104.32    2198.17
+52759    ESTES PARK                           CO      40.23     -105.31    2294.21
+52932    FLAGLER                              CO      39.19     -103.05    1516.77
+52997    FORDER 8 S                           CO      38.33     -103.41    1444.82
+53005    FORT COLLINS                         CO      40.35     -105.05    1525.61
+53027    FORT LUPTON                          CO      40.06     -104.49    1490.24
+53038    FORT MORGAN                          CO      40.15     -103.48    1317.38
+53146    FRUITA                               CO      39.1      -108.44    1374.09
+53246    GATEWAY                              CO      38.4      -108.59    1390.85
+53258    GENOA                                CO      39.17     -103.32    1708.23
+53489    GRAND JUNCTION 2 WSW                 CO      39.03     -108.27    1451.22
+53579    GREENLAND 9 SE                       CO      39.06     -104.44    2280.49
+53584    GREENLAND 9 NE                       CO      39.14     -104.45    2079.27
+53592    GREEN MOUNTAIN DAM                   CO      39.53     -106.2     2359.76
+53867    HAYDEN                               CO      40.29     -107.15    1943.6
+54076    HOLLY                                CO      38.03     -102.07    1034.45
+54155    HOYT                                 CO      40        -104.05    1522.87
+54172    HUGO                                 CO      39.08     -103.28    1534.76
+54388    JOHN MARTIN DAM                      CO      38.04     -102.56    1162.8
+54444    KARVAL                               CO      38.44     -103.32    1564.02
+54581    KIOWA                                CO      39.21     -104.29    1935.98
+54603    KIT CARSON                           CO      38.46     -102.47    1306.1
+54945    LEROY                                CO      40.29     -103.01    1338.41
+55017    LIMON                                CO      39.16     -103.42    1634.15
+55020    LIMON HASS RANCH                     CO      39        -103.44    1661.59
+55048    LITTLE HILLS                         CO      40        -108.12    1890.24
+55116    LONGMONT 2 ESE                       CO      40.1      -105.04    1509.15
+55531    MESA VERDE NATL PARK                 CO      37.12     -108.3     2123.48
+55695    MONARCH PASS                         CO      38.3      -106.2     2926.83
+55706    MONTE VISTA                          CO      37.35     -106.09    2337.5
+55717    MONTROSE 1                           CO      38.29     -107.53    1762.2
+55765    MORRISON 1 SW                        CO      39.39     -105.14    1829.27
+55805    MOUNT MORRISON 1 SW                  CO      39.39     -105.14    1829.27
+55922    NEW RAYMER                           CO      40.36     -103.51    1458.23
+56192    OTIS 11 NE                           CO      40.16     -102.51    1299.7
+56280    PALMER LAKE                          CO      39.07     -104.55    2219.51
+56315    PARADOX                              CO      38.22     -108.58    1618.6
+56326    PARKER 6 E                           CO      39.32     -104.39    1923.78
+56559    PLATORO                              CO      37.21     -106.3     2671.64
+56763    PUEBLO ARMY DEPOT                    CO      38.18     -104.21    1426.83
+57031    RIFLE                                CO      39.32     -107.48    1646.34
+57167    ROCKY FORD 2 SE                      CO      38.02     -103.42    1273.78
+57287    RUSH                                 CO      38.53     -104.06    1768.29
+57337    SAGUACHE                             CO      38.05     -106.08    2346.65
+57618    SHOSHONE                             CO      39.34     -107.14    1966.46
+57664    SIMLA                                CO      39.09     -104.05    1844.51
+57866    SPRINGFIELD 7 WSW                    CO      37.24     -102.37    1394.82
+57992    STONINGTON                           CO      37.17     -102.11    1158.84
+58434    TRINIDAD CAA AIRPORT                 CO      37.15     -104.2     1751.83
+58468    TROY 1 SE                            CO      37.08     -103.19    1748.48
+58722    VONA                                 CO      39.18     -102.44    1371.95
+58839    WATERDALE                            CO      40.25     -105.12    1560.98
+58986    WETMORE 1 SE                         CO      38.13     -105.05    2004.57
+59045    WILCOX RANCH                         CO      38.55     -107.31    1817.07
+59265    YAMPA                                CO      40.09     -106.54    2406.1
+59295    YUMA                                 CO      40.08     -102.44    1258.54
+61689    COVENTRY                             CT      41.8      -72.35     146
+64488    MANSFIELD HOLLOW LAKE                CT      41.75     -72.18     76
+65077    MOUNT CARMEL                         CT      41.4      -72.9      55
+65445    NORFOLK 2 SW                         CT      41.97     -73.22     408
+68138    STORRS                               CT      41.8      -72.25     183
+73570    GEORGETOWN 5 SW                      DE      38.63     -75.47     14
+76410    NEWARK UNIVERSITY FARM               DE      39.65     -75.77     34
+100010   ABERDEEN EXPERIMNT STN               ID      42.57     -112.5     1341.46
+100227   AMERICAN FALLS 1 SW                  ID      42.47     -112.52    1315.85
+100347   ARBON 2 NW                           ID      42.3      -112.34    1576.22
+100448   ARROWROCK DAM                        ID      43.36     -115.55    987.5
+100525   AVERY RANGER STN                     ID      47.15     -115.48    759.76
+100540   BALD MOUNTAIN                        ID      43.39     -114.24    1829.27
+101022   BOISE WSFO AIRPORT                   ID      43.34     -116.13    866.46
+101288   BURLEY                               ID      42.32     -113.47    1282.93
+101298   BURLEY FACTORY                       ID      42.33     -113.48    1262.2
+101422   CAMPBELLS FERRY                      ID      45.29     -115.19    713.41
+101551   CASTLEFORD 2 N                       ID      42.33     -114.52    1166.16
+101636   CENTERVILLE ARBAUGH RANCH            ID      43.58     -115.51    1310.98
+101663   CHALLIS                              ID      44.3      -114.14    1576.52
+101831   CLARKIA                              ID      47        -116.15    867.07
+102071   CONDA                                ID      42.43     -111.33    1890.24
+102154   COTTONWOOD                           ID      46.03     -116.21    1067.38
+102444   DEER FLAT DAM                        ID      43.35     -116.45    765.24
+102904   ELMIRA                               ID      48.29     -116.27    737.5
+103143   FENN RANGER STATION                  ID      46.06     -115.33    548.78
+103448   GARDEN VALLEY                        ID      44.04     -115.55    979.27
+103677   GOODING                              ID      42.55     -114.42    1096.95
+103771   GRANGEVILLE                          ID      45.55     -116.08    1022.87
+103811   GRASMERE 3 S                         ID      42.16     -115.53    1585.37
+103835   GREENCREEK 3 N                       ID      46.09     -116.16    1021.34
+104140   HAZELTON                             ID      42.36     -114.08    1237.8
+104150   HEADQUARTERS                         ID      46.38     -115.48    956.71
+104230   HENRY                                ID      42.54     -111.3     1871.95
+104268   HILL CITY                            ID      43.18     -115.03    1532.93
+104384   HOWE                                 ID      43.47     -113       1469.51
+104442   IDAHO CITY                           ID      43.5      -115.5     1208.84
+104450   IDAHO CITY 11 SW                     ID      43.43     -116       1524.39
+104475   IDA VADA                             ID      42.01     -115.19    1829.27
+104588   IRWIN 2 SE                           ID      43.24     -111.18    1615.85
+104670   JEROME                               ID      42.44     -114.31    1143.29
+104831   KELLOGG                              ID      47.32     -116.08    702.74
+104908   KILGORE                              ID      44.24     -111.53    1875
+105011   KOOSKIA                              ID      46.09     -115.59    384.45
+105043   KUNA 3 E                             ID      43.29     -116.2     844.51
+105241   LEWISTON AP                          ID      46.23     -117.01    430.79
+105462   MACKAY RANGER STN                    ID      43.55     -113.37    1797.87
+105544   MALAD                                ID      42.11     -112.16    1347.56
+105567   MALTA RANGER STN                     ID      42.19     -113.21    1385.06
+105685   MAY                                  ID      44.36     -113.55    1557.93
+106053   MONTPELIER RANGER STN                ID      42.19     -111.18    1811.89
+106174   MOUNTAIN HOME                        ID      43.08     -115.42    969.51
+106300   NAMPA 2 NW                           ID      43.37     -116.35    753.05
+106424   NEZPERCE                             ID      46.15     -116.12    960.37
+106681   OROFINO                              ID      46.29     -116.15    313.11
+106764   PALISADES                            ID      43.21     -111.13    1641.77
+106844   PARMA                                ID      43.47     -116.57    678.05
+106891   PAYETTE                              ID      44.05     -116.56    655.49
+107040   PICABO                               ID      43.18     -114.04    1486.28
+107327   PRAIRIE                              ID      43.3      -115.35    1463.41
+107353   PRESTON SUGAR FACTORY                ID      42.04     -111.51    1438.41
+107673   RICHFIELD                            ID      43.04     -114.09    1312.8
+107706   RIGGINS                              ID      45.25     -116.19    549.09
+108022   ST ANTHONY                           ID      43.58     -111.4     1514.63
+108062   SAINT MARIES                         ID      47.19     -116.34    661.59
+108137   SANDPOINT EXP STATION                ID      48.17     -116.34    640.24
+108548   SOLDIER CREEK RANGER STN             ID      43.3      -114.5     1754.57
+108604   SPENCER RANGER STN                   ID      44.21     -112.11    1793.6
+108818   SUGAR                                ID      43.53     -111.45    1490.85
+108928   SWAN FALLS POWER HOUSE               ID      43.15     -116.23    708.23
+109119   THREE CREEK                          ID      42.05     -115.09    1652.44
+109294   TWIN FALLS 2 NNE                     ID      42.35     -114.28    1149.39
+109299   TWIN FALLS 3 SE                      ID      42.32     -114.25    1147.87
+110072   ALEDO                                IL      41.22     -90.75     219
+118740   URBANA                               IL      40.1      -88.23     226
+120550   BEDFORD 4 SW                         IN      38.83     -86.53     155
+121739   COLUMBIA CITY                        IN      41.13     -85.48     260
+122309   DUBOIS S IN FORAGE FARM              IN      38.45     -86.7      210
+122825   FARMLAND                             IN      40.25     -85.15     294
+124407   JOHNSON EXPERIMENT FARM              IN      38.27     -87.75     134
+124715   LAFAYETTE 5 S                        IN      40.35     -86.87     183
+124730   LAGRANGE SEWAGE PLANT                IN      41.65     -85.42     273
+129222   WANATAH 2 WNW                        IN      41.43     -86.93     224
+130112   ALBIA                                IA      41.03     -92.8      288
+130200   AMES 8 WSW                           IA      42.03     -93.8      335
+137613   SHENANDOAH                           IA      40.74     -95.38     309
+141699   COLBY 1 SW                           KS      39.38     -101.1     966
+142980   GARDEN CITY EXP STN                  KS      37.98     -100.82    866
+144972   MANHATTAN                            KS      39.2      -96.58     325
+174183   JONESBORO                            ME      44.65     -67.65     43
+176430   ORONO                                ME      44.93     -68.7      43
+181862   CLARKSVILLE 3 NNE                    MD      39.25     -76.92     111
+189070   UPPER MARLBORO 3 NNW                 MD      38.87     -76.78     30
+190408   BARRE FALLS DAM                      MA      42.43     -72.03     277
+190666   BIRCH HILL DAM                       MA      42.63     -72.12     256
+190998   BUFFUMVILLE LAKE                     MA      42.12     -71.9      152
+192451   EAST WAREHAM                         MA      41.77     -70.67     5
+194246   LITTLEVILLE LAKE                     MA      42.27     -72.88     183
+196783   READING                              MA      42.52     -71.13     27
+200032   ADRIAN                               MI      41.92     -84.02     230
+202395   EAST LANSING 3 SE                    MI      42.7      -84.47     271
+203201   GAGETOWN HURON LINE                  MI      43.67     -83.32     196
+203203   BAD AXE MCMILLAN                     MI      43.72     -83.07     233
+203303   DEWITT                               MI      42.8      -84.5      256
+207690   SOUTH HAVEN                          MI      42.4      -86.28     191
+207901   GAGETOWN                             MI      43.66     -83.25     229
+211891   CROOKSTON NW EXP STN                 MN      47.8      -96.6      269
+213303   GRAND RAPIDS FORESTRY LAB            MN      47.23     -93.5      399
+215638   MORRIS WC EXP STN                    MN      45.58     -95.92     344
+217377   ST PAUL                              MN      44.98     -93.08     280
+218692   WASECA EXPERIMENT FARM               MN      44.07     -93.52     351
+231791   COLUMBIA AIRPORT                     MO      38.82     -92.22     270
+235834   MOUNTAIN GROVE 2 N                   MO      37.15     -92.27     446
+236804   PORTAGEVILLE                         MO      36.42     -89.6      87
+237455   ST LOUIS WSCMO AIPRORT               MO      38.82     -90.82     168
+240075   ALBERTON                             MT      47        -114.29    935.98
+240330   ASHLAND RANGER STN                   MT      45.36     -106.16    914.63
+240364   AUGUSTA                              MT      47.29     -112.23    1240.85
+240554   BAYLOR                               MT      48.4      -106.29    891.77
+240636   BELLTOWER                            MT      45.39     -104.23    1006.1
+240739   BIDDLE                               MT      45.06     -105.2     1017.99
+240743   BIDDLE 8 SW                          MT      45.03     -105.28    1096.04
+240807   BILLINGS INTL AP                     MT      45.48     -108.32    975.61
+240877   BLACKLEAF                            MT      48.01     -112.29    1317.99
+241044   BOZEMAN MONTANA ST UNIV              MT      45.4      -111.03    1480.49
+241047   BOZEMAN 6 W EXP FARM                 MT      45.41     -111.09    1454.27
+241080   BRADY AZNOE                          MT      47.57     -111.2     1014.94
+241084   BRANDENBERG                          MT      45.49     -106.13    844.51
+241088   BREDETTE                             MT      48.33     -105.16    807.93
+241102   BRIDGER                              MT      45.18     -108.55    1134.15
+241149   BROADVIEW                            MT      46.06     -108.52    1184.45
+241231   BRUSETT 3 W                          MT      47.27     -107.18    952.74
+241297   BUSBY                                MT      45.32     -106.57    1067.07
+241408   CAMERON                              MT      45.12     -111.41    1676.83
+241722   CHINOOK                              MT      48.36     -109.14    737.8
+241737   CHOTEAU                              MT      47.49     -112.1     1161.59
+241758   CIRCLE                               MT      47.26     -105.35    742.99
+241765   CIRCLE 7 N                           MT      47.31     -105.34    740.24
+241938   COLUMBUS                             MT      45.38     -109.15    1094.51
+241968   CONNER                               MT      45.56     -114.08    1228.66
+241984   CONTENT                              MT      47.59     -107.34    689.02
+242104   CRESTON                              MT      48.11     -114.08    911.89
+242112   CROW AGENCY                          MT      45.36     -107.27    923.78
+242221   DARBY                                MT      46.01     -114.1     1182.93
+242317   DELPHIA                              MT      46.29     -108.24    932.62
+242347   DENTON                               MT      47.19     -109.57    1099.09
+242404   DILLON AIRPORT                       MT      45.15     -112.33    1590.85
+242409   DILLON NORMAL SCHOOL                 MT      45.12     -112.38    1593.9
+242421   DIVIDE                               MT      45.46     -112.47    1648.17
+242438   DODSON                               MT      48.25     -108.19    700.61
+242550   DUNKIRK 14 NNE                       MT      48.4      -111.34    1020.73
+242689   EKALAKA                              MT      45.53     -104.32    1044.21
+242778   EMIGRANT                             MT      45.22     -110.43    1524.39
+242793   ENNIS                                MT      45.21     -111.43    1510.06
+242857   FAIRFIELD                            MT      47.37     -111.59    1214.33
+242996   FISHTAIL                             MT      45.27     -109.31    1353.66
+243013   FLATWILLOW 4 ENE                     MT      46.51     -108.19    958.23
+243089   FORKS 4 NNE                          MT      48.47     -107.28    823.17
+243099   FORSYTH 2 E                          MT      46.16     -106.37    829.88
+243110   FORT ASSINNIBOINE                    MT      48.3      -109.48    819.21
+243113   FORT BENTON                          MT      47.49     -110.4     803.66
+243139   FORTINE                              MT      48.47     -114.54    914.63
+243176   FORT PECK POWER PLANT                MT      48.01     -106.24    652.44
+243346   GALATA 13 S                          MT      48.15     -111.25    945.12
+243378   GARDINER                             MT      45.02     -110.42    1615.85
+243445   GERALDINE                            MT      47.36     -110.16    955.79
+243486   GIBSON 2 NE                          MT      46        -109.28    1344.51
+243530   GILDFORD                             MT      48.35     -110.18    862.8
+243558   GLASGOW INTERNATL AP                 MT      48.13     -106.37    640.24
+243570   GLEN 2 E                             MT      45.31     -112.41    1539.63
+243581   GLENDIVE                             MT      47.06     -104.43    632.93
+243727   GRASS RANGE                          MT      47.02     -108.48    1060.98
+243751   GREAT FALLS AIRPORT                  MT      47.29     -111.21    1067.07
+243885   HAMILTON                             MT      46.15     -114.09    1089.02
+243910   HARB                                 MT      48.1      -107.26    739.02
+243915   HARDIN                               MT      45.45     -107.36    879.57
+243929   HARLEM                               MT      48.32     -108.47    722.87
+243939   HARLOWTON                            MT      46.26     -109.5     1268.29
+243994   HAVRE WB CITY                        MT      48.34     -109.4     758.54
+244007   HAXBY 18 SW                          MT      47.34     -106.42    807.93
+244050   HELENA 6 N                           MT      46.4      -112.03    1153.66
+244055   HELENA AP ASOS                       MT      46.36     -112       1295.73
+244084   HERON 2 SW                           MT      48.05     -116       692.07
+244120   HIGHWOOD                             MT      47.33     -110.47    1036.59
+244133   HIGHWOOD 7 NE                        MT      47.39     -110.4     1036.59
+244143   HILGER                               MT      47.15     -109.21    1243.6
+244345   HUNTLEY EXPERIMENT STN               MT      45.55     -108.15    911.28
+244358   HYSHAM                               MT      46.18     -107.13    807.93
+244442   ISMAY                                MT      46.31     -104.47    762.2
+244506   JOLIET                               MT      45.29     -108.58    1128.05
+244522   JORDAN                               MT      47.19     -106.54    815.24
+244545   JUDITH GAP 13 E                      MT      46.41     -109.29    1554.88
+244558   KALISPELL GLACIER AP                 MT      48.18     -114.16    903.96
+244701   KIRBY 1 S                            MT      45.19     -106.59    1204.27
+244715   KNOBS                                MT      45.55     -104.05    914.63
+244830   LAMBERT                              MT      47.42     -104.34    714.33
+244839   LAME DEER                            MT      45.38     -106.39    1015.55
+244904   LAVINA                               MT      46.18     -108.56    1046.95
+244954   LENNEP 5 SW                          MT      46.22     -110.36    1707.31
+244978   LEWISTOWN 10 S                       MT      46.55     -109.25    1504.57
+245015   LIBBY 1 NE RANGER STN                MT      48.24     -115.32    634.15
+245020   LIBBY 29 SSE                         MT      47.58     -115.14    1097.56
+245030   LIMA                                 MT      44.39     -112.35    1910.06
+245080   LIVINGSTON 11 S                      MT      45.3      -110.34    1484.76
+245106   LODGE GRASS                          MT      45.18     -107.22    885.37
+245285   LUSTRE 4 NNW                         MT      48.27     -105.56    890.24
+245340   MALTA 35 S                           MT      47.5      -107.58    798.78
+245351   MANHATTAN                            MT      45.52     -111.2     1289.63
+245387   MARTINSDALE                          MT      46.3      -110.2     1463.41
+245533   MCLEOD                               MT      45.4      -110.06    1435.98
+245572   MEDICINE LAKE 3 SE                   MT      48.29     -104.27    595.12
+245590   MELROSE                              MT      45.38     -112.41    1579.27
+245596   MELSTONE                             MT      46.36     -107.52    881.1
+245608   MENARD 3 NE                          MT      46.01     -111.08    1540.55
+245685   MILES CITY                           MT      46.24     -105.5     729.27
+245745   MISSOULA INTL AP                     MT      46.55     -114.05    975.61
+245761   MOCCASIN EXPERIMENT STN              MT      47.03     -109.57    1310.98
+245791   MOLT 6 SW                            MT      45.46     -108.58    1219.51
+245873   MOSBY 19 N                           MT      47.15     -107.57    689.02
+245876   MOSBY 23 N                           MT      47.2      -107.56    689.02
+246008   NEIHART 8 NNW                        MT      47.03     -110.47    1609.75
+246153   NORRIS 3 ENE                         MT      45.35     -111.39    1463.41
+246157   NORRIS MADISON PUMP HS               MT      45.29     -111.29    1446.65
+246190   NYE                                  MT      45.27     -109.48    1479.27
+246287   OTTER 9 SSW                          MT      45.06     -106.15    1250
+246302   OVANDO                               MT      47.01     -113.09    1250.3
+246364   PARADISE                             MT      47.23     -114.48    881.1
+246472   PHILIPSBURG RANGER STN               MT      46.19     -113.19    1606.71
+246562   PLAINS RANGER STATION                MT      47.28     -114.53    759.15
+246655   PONY                                 MT      45.4      -111.54    1676.83
+246700   POWER 6 SE                           MT      47.39     -111.36    1147.56
+246900   RAYNESFORD                           MT      47.16     -110.44    1222.87
+246918   RED LODGE                            MT      45.11     -109.15    1699.7
+246946   REEDPOINT                            MT      45.43     -109.33    1137.2
+247204   ROUND BUTTE 1 NNE                    MT      47.32     -114.17    945.12
+247265   SACO 1 NNW                           MT      48.28     -107.21    661.59
+247286   ST IGNATIUS                          MT      47.19     -114.06    884.15
+247367   SAPPINGTON                           MT      45.48     -111.46    1280.49
+247448   SEELEY LAKE RANGER STN               MT      47.13     -113.31    1228.66
+247501   SHELBY AIRPORT                       MT      48.33     -111.52    1042.68
+247735   SONNETTE 4 N                         MT      45.28     -105.49    1067.07
+247740   SONNETTE 2 WNW                       MT      45.25     -105.51    1189.02
+248021   SUN RIVER 4 S                        MT      47.28     -111.46    1085.37
+248043   SUPERIOR                             MT      47.12     -114.53    832.32
+248087   SWAN LAKE                            MT      47.55     -113.5     972.56
+248169   OLANDA                               MT      47.04     -105.3     992.38
+248211   THOMPSON FALLS POWER HOUSE           MT      47.36     -115.22    740.85
+248233   TIBER DAM                            MT      48.19     -111.05    868.9
+248329   TOWNSEND 12 ENE                      MT      46.21     -111.17    1524.39
+248363   TRIDENT                              MT      45.57     -111.29    1230.49
+248379   TROUT CREEK 2 W                      MT      47.5      -115.38    757.62
+248495   UTICA 11 WSW                         MT      46.53     -110.18    1524.39
+248569   VIDA                                 MT      47.5      -105.29    734.45
+248783   WESTERN AG RESEARCH CNTR             MT      46.2      -114.04    1096.65
+248857   WEST YELLOWSTONE                     MT      44.39     -111.06    2031.1
+248927   WHITE SULPHUR SPRNGS                 MT      46.33     -110.55    1572.26
+248939   WHITEWATER                           MT      48.46     -107.38    717.99
+248957   WIBAUX 2 E                           MT      46.59     -104.09    814.02
+249033   WINIFRED                             MT      47.33     -109.23    990.85
+249067   WISDOM                               MT      45.37     -113.27    1846.95
+249175   WYOLA                                MT      45.08     -107.23    1129.57
+250050   AINSWORTH                            NE      42.55     -99.87     765
+252850   FALLS CITY                           NE      40.07     -95.6      302
+255362   MEAD AGRONOMY LAB                    NE      41.17     -96.42     360
+255590   MITCHELL 5 E                         NE      41.95     -103.68    1244
+260046   ADAVEN                               NV      38.07     -115.35    1905.49
+260438   ARTHUR 4 NW                          NV      40.47     -115.11    1981.71
+260507   AUSTIN                               NV      39.3      -117.05    2013.72
+260714   BEATTY                               NV      36.54     -116.45    1006.71
+261071   BOULDER CITY                         NV      35.59     -114.51    769.82
+261358   CALIENTE                             NV      37.37     -114.31    1342.07
+261485   CARSON CITY                          NV      39.09     -119.46    1417.99
+261630   CENTRAL NEVADA FIELD LAB             NV      39.23     -117.19    1814.02
+261905   CONTACT                              NV      41.47     -114.45    1635.67
+262431   DYER                                 NV      37.37     -118.01    1516.77
+262557   ELGIN                                NV      37.21     -114.32    1032.01
+262631   ELY YELLAND FIELD AP                 NV      39.17     -114.51    1907.62
+262840   FERNLEY                              NV      39.37     -119.15    1268.29
+263205   GLENBROOK                            NV      39.05     -119.56    1951.22
+264143   KEY PITTMAN WMA                      NV      37.37     -115.13    1204.27
+264527   LEONARD CREEK RANCH                  NV      41.31     -118.43    1288.11
+264698   LOVELOCK                             NV      40.11     -118.28    1212.5
+264745   LUND                                 NV      38.51     -115       1696.65
+264950   MCGILL                               NV      39.24     -114.46    1932.93
+265191   MINDEN                               NV      38.57     -119.46    1432.93
+265352   MONTELLO                             NV      41.16     -114.12    1486.59
+265869   OWYHEE                               NV      41.57     -116.06    1645.12
+266252   PIOCHE                               NV      37.56     -114.27    1865.85
+267123   RUBY LAKE                            NV      40.12     -115.3     1832.93
+267192   RYE PATCH DAM                        NV      40.28     -118.18    1260.67
+268761   VIRGINIA CITY                        NV      39.18     -119.38    1829.88
+268988   WELLS                                NV      41.07     -114.58    1717.38
+269229   YERINGTON                            NV      38.59     -119.1     1333.84
+269234   YERINGTON 2                          NV      38.59     -119.1     1335.98
+272174   DURHAM                               NH      43.13     -70.93     22
+272999   FIRST CONNECTICUT LAKE               NH      45.08     -71.28     506
+274556   LANCASTER                            NH      44.48     -71.57     264
+281335   CANOE BROOK                          NJ      40.75     -74.35     55
+281351   CAPE MAY 1 NW                        NJ      39.08     -74.82     5
+281582   CHARLOTTEBURG                        NJ      41.03     -74.43     232
+282768   ESSEX FELLS SERV BLDG                NJ      40.83     -74.28     104
+283662   HAMMONTON                            NJ      39.65     -74.8      26
+284635   LAMBERTVILLE                         NJ      40.37     -74.95     18
+284987   LONG BRANCH                          NJ      40.33     -74        3
+285769   MORRIS PLAINS 1 W                    NJ      40.83     -74.5      122
+286775   PATERSON                             NJ      40.9      -74.15     30
+288051   SHILOH                               NJ      39.47     -75.3      37
+288816   TOMS RIVER                           NJ      39.95     -74.22     30
+288899   TUCKERTON                            NJ      39.6      -74.35     6
+289910   WOODSTOWN                            NJ      39.65     -75.32     15
+290245   ALCALDE                              NM      36.06     -106.04    1731.71
+290743   BANDELIER NATL MONUMENT              NM      35.47     -106.16    1847.87
+290846   BELEN                                NM      34.4      -106.46    1463.41
+290903   BERNALILLO                           NM      35.19     -106.33    1538.11
+291286   CABALLO DAM                          NM      32.54     -107.18    1277.44
+291389   CANJILON RANGER STN                  NM      36.29     -106.27    2386.59
+291438   CAPILLO PEAK                         NM      34.31     -106.15    1992.38
+291440   CAPITAN                              NM      33.37     -105.25    1935.98
+291475   CARLSBAD CAVERN CITY                 NM      32.2      -104.16    945.12
+291813   CIMARRON                             NM      36.31     -104.55    1959.45
+291881   CLAYTON 9 SSE                        NM      36.2      -103.06    1493.9
+291887   CLAYTON WSO AIRPORT                  NM      36.27     -103.09    1515.24
+291910   CLIFF 10 SE                          NM      32.52     -108.31    1463.41
+291939   CLOVIS                               NM      34.24     -103.12    1304.88
+291963   CLOVIS 13 N                          NM      34.36     -103.13    1352.13
+292030   CONCHAS DAM                          NM      35.24     -104.11    1293.9
+292384   DAWSON                               NM      36.4      -104.47    1951.22
+292510   DILIA                                NM      35.11     -105.33    1829.27
+292837   EL VADO DAM                          NM      36.36     -106.44    2057.93
+292848   ELEPHANT BUTTE DAM                   NM      33.09     -107.11    1395.12
+292854   ELIDA                                NM      33.57     -103.39    1324.7
+293060   ESTANCIA                             NM      34.45     -106.04    1861.89
+293134   FARMINGTON                           NM      36.45     -108.1     1644.82
+293225   FLORIDA                              NM      32.26     -107.29    1356.71
+293265   FORT BAYARD                          NM      32.48     -108.09    1867.38
+293294   FORT SUMNER                          NM      34.28     -104.15    1257.62
+293340   FRUITLAND                            NM      36.44     -108.24    1574.7
+293530   GILA HOT SPRINGS                     NM      33.12     -108.13    1707.32
+293969   HICKMAN                              NM      34.3      -108       2405.49
+294009   HILLSBORO                            NM      32.56     -107.34    1609.76
+294026   HOBBS                                NM      32.42     -103.08    1102.13
+294089   HONDO                                NM      33.24     -105.18    1594.51
+294346   JAL                                  NM      32.06     -103.12    960.37
+295073   LONG CANYON                          NM      37        -103.39    1621.95
+295204   LOVINGTON 2 WNW                      NM      32.58     -103.22    1189.02
+295583   MC INTOSH 4 NW                       NM      34.55     -106.05    1935.98
+295617   MELROSE                              NM      34.26     -103.38    1341.16
+295685   MEXICAN SPRINGS                      NM      35.48     -108.5     1962.5
+295754   MIMBRES RANGER STN                   NM      32.56     -108.01    1904.57
+295800   MOGOLLON                             NM      33.24     -108.47    2073.17
+295834   MONTANO GRANT                        NM      35.1      -107.01    1407.93
+295960   MOUNTAIN PARK                        NM      32.57     -105.51    2073.16
+295965   MOUNTAINAIR                          NM      34.32     -106.15    1992.38
+296028   NAMBE 1                              NM      35.54     -105.59    1844.51
+296619   PASAMONTE                            NM      36.18     -103.44    1722.56
+296659   PEARL                                NM      32.39     -103.23    1158.54
+296705   PENASCO RANGER STN                   NM      36.1      -105.41    2408.54
+296854   PINOS ALTOS                          NM      32.52     -108.13    2134.15
+297254   RAMON 4 WSW                          NM      34.16     -104.57    1615.85
+297386   HOOD RANGER STN                      NM      33.43     -108.47    1778.05
+297423   RIENHARDT RANCH                      NM      33.45     -107.13    1661.59
+297638   ROY                                  NM      35.57     -104.12    1793.9
+297867   SAN JON                              NM      35.07     -103.2     1289.63
+298072   SANTA FE                             NM      35.41     -105.54    2195.12
+298324   SILVER CITY                          NM      32.46     -108.17    1797.26
+298415   SOLANO                               NM      35.52     -104.03    1707.32
+298518   STANLEY 1 NNE                        NM      35.1      -105.58    1945.12
+298650   TAJIQUE                              NM      34.48     -106.18    2103.66
+298668   TAOS                                 NM      36.25     -105.34    2128.96
+298845   TIERRA AMARILLA                      NM      36.45     -106.34    2254.88
+299330   VALMORA                              NM      35.49     -104.56    1920.73
+299370   VAQUEROS                             NM      36.41     -107.12    1987.8
+299448   VERMEJO PARK                         NM      36.53     -104.57    2310.98
+299508   VIRDEN                               NM      32.41     -109       1144.82
+299840   YATES 6S                             NM      36.03     -103.52    1707.32
+300023   ADDISON                              NY      42.1      -77.23     305
+300083   NEWARK GARDNER                       NY      43        -77.08     171
+300085   ALFRED                               NY      42.27     -77.78     518
+300331   AURORA RESEARCH FARM                 NY      42.73     -76.65     253
+300360   BAINBRIDGE                           NY      42.3      -75.48     309
+300889   BRIDGEHAMPTON                        NY      40.95     -72.3      18
+300937   BROCKPORT                            NY      43.25     -77.97     126
+301185   CANTON                               NY      44.58     -75.17     122
+301207   CARMEL                               NY      41.42     -73.7      149
+301401   CHAZY                                NY      44.88     -73.47     61
+301623   COLDEN 1 N                           NY      42.67     -78.68     314
+301974   DANSVILLE                            NY      42.57     -77.7      209
+302554   ELIZABETHTOWN                        NY      44.22     -73.58     180
+303033   FREDONIA                             NY      42.42     -79.3      232
+303038   FREEHOLD 2 NW                        NY      42.37     -74.07     137
+303177   GENEVA EXPERIMENT STN                NY      42.88     -77        187
+303284   GLENS FALLS FARM                     NY      43.33     -73.73     154
+303360   GRAFTON                              NY      42.78     -73.47     475
+303781   HEMPSTEAD GARDEN CITY                NY      40.72     -73.63     24
+304174   ITHACA CORNELL UNIV                  NY      42.45     -76.47     290
+304647   LAWRENCEVILLE                        NY      44.75     -74.67     146
+304715   LEWISTON 1 N                         NY      43.18     -79.05     101
+304731   LIBERTY                              NY      41.8      -74.75     491
+304791   LITTLE FALLS CITY RSVR               NY      43.07     -74.87     274
+304808   LITTLE VALLEY                        NY      42.25     -78.8      480
+304849   LOCKPORT 4 NE                        NY      43.2      -78.63     134
+304912   LOWVILLE                             NY      43.8      -75.48     280
+305426   MOHONK LAKE                          NY      41.77     -74.15     379
+305512   MORRISVILLE                          NY      42.9      -75.65     396
+305604   MOUNT PLEASANT FARM                  NY      42.45     -76.37     503
+305711   NEWCOMB                              NY      43.98     -74.23     522
+305821   NY WESTERLEIGH STAT IS               NY      40.6      -74.17     24
+306774   PORT JERVIS                          NY      41.38     -74.68     21
+307134   RIVERHEAD RESEARCH FARM              NY      40.92     -72.72     30
+307317   ROXBURY                              NY      42.28     -74.57     454
+307484   SARATOGA SPRINGS 2 S                 NY      43.03     -73.82     101
+307633   SETAUKET                             NY      40.95     -73.1      12
+307842   SODUS                                NY      43.2      -77.02     128
+308088   SPENCER                              NY      42.2      -76.57     311
+308746   VALATIE 1 N                          NY      42.43     -73.68     91
+308936   WALTON                               NY      42.7      -75.13     393
+308962   WARSAW 5 SW                          NY      42.68     -78.2      523
+309189   WESTFIELD 2 SSE                      NY      42.28     -79.62     297
+315890   MOUNT AIRY                           NC      36.52     -80.62     332
+317615   SALISBURY                            NC      35.67     -80.48     233
+322188   DICKINSON EXP STN                    ND      46.88     -102.8     750
+324958   LANGDON EXPERIMENT FARM              ND      48.75     -98.33     492
+325993   MINOT EXPERIMENT STN                 ND      48.18     -101.3     539
+329430   WILLISTON EXP FARM                   ND      48.13     -103.75    642
+333874   HOYTVILLE 2 NE                       OH      41.22     -83.77     213
+337120   RIPLEY EXP FARM                      OH      38.78     -83.8      268
+339312   WOOSTER EXP STN                      OH      40.78     -81.92     311
+340535   BARNSDALL                            OK      36.55     -96.17     226
+350041   ADRIAN                               OR      43.44     -117.04    680.18
+350197   ANTELOPE                             OR      44.55     -120.43    840.85
+350265   ARLINGTON                            OR      45.43     -120.12    96.04
+350318   ASTOR EXPERIMENT STN                 OR      46.09     -123.49    14.63
+350328   ASTORIA WSO AIRPORT                  OR      46.09     -123.53    2.44
+350356   AUSTIN 3 S                           OR      44.34     -118.3     1284.45
+350541   BATES 6 SW DIXIE PASS                OR      44.32     -118.36    1600.61
+350652   BELKNAP SPRINGS 8 N                  OR      44.18     -122.02    656.1
+350781   BLACKBUTTE                           OR      43.35     -123.04    326.52
+350897   BONNEVILLE DAM                       OR      45.38     -121.57    25.91
+351149   BUNCOM 1 SE                          OR      42.09     -122.58    586.89
+351176   BURNS WSO CITY                       OR      45.35     -119.03    1265.55
+351227   BUXTON MOUNTAINDALE                  OR      45.41     -123.04    109.76
+351324   CANARY                               OR      43.56     -124.02    15.24
+351332   CANBY                                OR      45.14     -122.41    46.65
+351552   CHERRY GROVE 2 S                     OR      45.25     -123.15    231.71
+351571   CHILOQUIN                            OR      42.35     -121.52    1279.88
+351826   COPPER                               OR      42.02     -123.08    579.27
+351852   CORNUCOPIA                           OR      45        -117.12    1432.93
+351862   CORVALLIS STATE UNIV                 OR      44.38     -123.12    68.6
+351897   COTTAGE GROVE 1 S                    OR      43.47     -123.04    240.85
+352112   DALLAS                               OR      44.56     -123.19    99.09
+352277   DETROIT                              OR      44.44     -122.09    484.76
+352345   DISSTON 1 NE LAYING CREEK            OR      43.42     -122.45    369.51
+352406   DRAIN                                OR      43.41     -123.18    113.41
+352440   DUFUR                                OR      45.27     -121.08    405.49
+352482   DURKEE 3 NNW                         OR      44.37     -117.29    845.73
+352672   ENTERPRISE                           OR      45.26     -117.16    1146.34
+352693   ESTACADA 2 SE                        OR      45.16     -122.19    153.05
+352697   ESTACADA 24 SE INTAKE                OR      45.05     -121.59    670.73
+352709   EUGENE WSO AIRPORT                   OR      44.07     -123.13    117.38
+353095   FREMONT                              OR      43.2      -121.1     1328.05
+353445   GRANTS PASS                          OR      42.26     -123.19    282.01
+353542   GRIZZLY                              OR      44.29     -120.58    1091.16
+353562   GUNTER                               OR      43.48     -123.28    228.66
+353604   HALFWAY                              OR      44.53     -117.07    814.33
+353644   HARDMAN                              OR      45.1      -119.41    1091.46
+353678   HARRISBURG                           OR      44.16     -123.1     93.9
+353827   HEPPNER                              OR      45.2      -119.33    594.51
+353847   HERMISTON 1 SE                       OR      45.49     -119.17    190.24
+353971   HOLLEY                               OR      44.21     -122.47    164.63
+354003   HOOD RIVER EXP STN                   OR      45.41     -121.31    152.44
+354098   HUNTINGTON                           OR      44.21     -117.16    655.49
+354147   IMNAHA                               OR      45.34     -116.5     564.02
+354276   JEWELL                               OR      45.56     -123.3     149.7
+354357   JUNTURA 9 ENE                        OR      43.48     -117.56    862.2
+354411   KENT                                 OR      45.12     -120.41    825.3
+354506   KLAMATH FALLS                        OR      42.12     -121.47    1249.39
+354511   KLAMATH FALLS CAA AIRPORT            OR      42.1      -121.44    1239.33
+354670   LAKEVIEW                             OR      42.11     -120.21    1455.49
+354939   LITTLE RIVER                         OR      43.14     -122.56    350.61
+355020   LONG CREEK                           OR      44.43     -119.06    1134.76
+355050   LOOKOUT POINT DAM                    OR      43.55     -122.46    217.07
+355160   MALHEUR BRANCH EXP STN               OR      43.59     -117.01    679.88
+355162   MALHEUR REFUGE HDQ                   OR      43.17     -118.5     1252.74
+355213   MARCOLA                              OR      44.1      -122.51    161.59
+355217   MARIAL 8 NNE                         OR      42.49     -123.51    127.13
+355357   MC KENZIE BRIDGE                     OR      44.11     -122.1     417.68
+355362   MC KENZIE BRIDGE R S                 OR      44.1      -122.1     415.24
+355424   MEDFORD EXPERIMENT STN               OR      42.18     -122.52    444.21
+355429   MEDFORD INTL AP                      OR      42.22     -122.52    400
+355629   MIST 1 SE                            OR      45.49     -123.15    152.44
+355656   MODOC ORCHARD                        OR      42.27     -122.53    387.2
+355677   MOLALLA                              OR      45.09     -122.35    111.28
+355715   MONUMENT RANGER STN                  OR      44.49     -119.25    605.49
+355734   MORO                                 OR      45.29     -120.43    564.02
+355892   MYRTLE CREEK 12 ENE                  OR      43.03     -123.04    341.46
+356213   OAKRIDGE FISH HATCHERY               OR      43.45     -122.27    388.72
+356238   OCHOCO DAM                           OR      44.18     -120.44    932.01
+356294   ONTARIO CAA AIRPORT                  OR      44.03     -116.58    653.96
+356334   OREGON CITY                          OR      45.21     -122.36    45.73
+356366   OTIS                                 OR      45.02     -123.56    47.26
+356464   PARKDALE                             OR      45.31     -121.36    530.49
+356532   PELTON DAM                           OR      44.44     -121.14    640.24
+356540   PENDLETON FIELD STN                  OR      45.43     -118.38    453.35
+356546   PENDLETON MUNICIPAL AP               OR      45.41     -118.51    454.88
+356820   POWERS                               OR      42.53     -124.04    91.46
+356845   PRAIRIE CITY RANGER STN              OR      44.27     -118.43    1078.05
+357326   ROSEBURG WB CITY                     OR      43.14     -123.22    153.96
+357391   RUCH                                 OR      42.14     -123.02    472.56
+357675   SENECA                               OR      44.09     -118.58    1422.56
+357823   SILVERTON                            OR      45        -122.46    124.39
+357866   SITKUM                               OR      43.09     -123.52    176.83
+358009   SPRAY                                OR      44.5      -119.47    539.63
+358182   SUMMIT                               OR      44.38     -123.35    227.44
+358536   TOKETEE FALLS                        OR      43.17     -122.27    626.52
+358879   VERNONIA                             OR      45.52     -123.12    193.6
+359051   WARREN                               OR      45.49     -122.51    25
+359213   WESTON                               OR      45.49     -118.26    568.9
+359219   WESTON 5 ESE                         OR      45.47     -118.19    982.32
+359461   WINCHESTER                           OR      43.17     -123.22    146.34
+360031   CAMP HILL 25                         PA      40.25     -76.93     134
+361534   CLERMONT 4 NW                        PA      41.68     -78.5      494
+361790   CORRY                                PA      41.92     -79.63     439
+362721   EVERETT                              PA      40        -78.38     311
+363056   FREELAND                             PA      41.02     -75.9      579
+363218   GETTYSBURG                           PA      39.83     -77.23     165
+365915   MONTROSE                             PA      41.83     -75.87     475
+366297   NEWPORT                              PA      40.48     -77.13     122
+367029   PLEASANT MOUNT 1 W                   PA      41.73     -75.45     549
+367409   RENOVO                               PA      41.32     -77.75     206
+368449   STATE COLLEGE                        PA      40.71     -77.96     366
+368596   STROUDSBURG                          PA      41        -75.18     146
+368905   TOWANDA                              PA      41.75     -76.42     227
+369408   WELLSBORO 3 S                        PA      41.7      -77.27     567
+369464   WEST CHESTER                         PA      39.97     -75.63     137
+402202   CROSSVILLE EXP STN                   TN      35.95     -85.03     552
+404561   JACKSON EXP STN                      TN      35.63     -88.85     112
+404946   KNOXVILLE EXP STN                    TN      35.9      -83.97     253
+405681   MARTIN U OF TN EXP STN               TN      36.32     -88.85     118
+406427   NEAPOLIS                             TN      35.72     -86.97     219
+408562   SPRINGFIELD EXP STN                  TN      36.43     -86.85     229
+410219   AMBROSE                              TX      33.41     -96.22     164.02
+410903   BOERNE 8 NE                          TX      29.53     -98.39     428.35
+413270   FORT MC KAVETT                       TX      30.56     -100.07    670.73
+413992   HASKELL                              TX      33.1      -99.44     489.33
+414587   JERMYN 3 SE                          TX      33.15     -98.21     327.44
+416130   MUENSTER                             TX      33.39     -97.22     306.4
+416504   O DONNELL                            TX      32.58     -102.24    928.66
+416747   PAINT ROCK                           TX      33.3      -99.55     495.73
+419026   TIGERTOWN                            TX      33.35     -95.54     203.66
+420797   BOBS HOLE                            UT      38.13     -111.28    2134.15
+420924   BRIGHAM CITY                         UT      41.29     -112.02    1310.98
+421267   CEDAR CITY FAA AIRPORT               UT      37.42     -113.06    1711.28
+421411   CHRISTMAS MEADOWS                    UT      40.49     -110.48    1463.41
+421588   COALVILLE                            UT      40.55     -111.24    1732.62
+422172   DINOSAUR NATIONAL MONUMEN            UT      40.26     -109.18    1448.17
+422253   DUCHESNE                             UT      40.1      -110.24    1681.4
+422484   EMERY                                UT      38.55     -111.15    1908.54
+422558   ENTERPRISE                           UT      37.34     -113.43    1625
+422573   EPHRAIM HQ GBRC                      UT      39.19     -111.29    2698.17
+422696   FAIRFIELD                            UT      40.16     -112.05    1487.8
+422726   FARMINGTON COURTHOUSE                UT      40.59     -111.53    1286.59
+422798   FERRON                               UT      39.05     -111.08    1814.02
+422828   FILLMORE                             UT      38.57     -112.19    1600.61
+422996   FORT DUCHESNE                        UT      40.17     -109.51    1521.34
+423046   FRUITA                               UT      38.17     -111.16    1646.34
+423138   GARRISON                             UT      38.56     -114.02    1608.23
+423260   GOLD HILL                            UT      40.1      -113.5     1622.26
+423348   GRANTSVILLE                          UT      40.36     -112.28    1310.98
+424135   HUNTSVILLE MONASTERY                 UT      41.14     -111.43    1539.63
+424342   JENSEN                               UT      40.22     -109.21    1439.02
+424508   KANAB                                UT      37.03     -112.32    1527.44
+424527   KANOSH                               UT      38.48     -112.26    1529.27
+424764   KOOSHAREM                            UT      38.31     -111.53    2118.9
+424856   LAKETOWN                             UT      41.49     -111.19    1825.61
+424927   LA POINT                             UT      40.24     -109.48    1692.07
+424968   LA VERKIN                            UT      37.12     -113.16    1051.83
+425065   LEVAN                                UT      39.33     -111.57    1615.85
+425082   LEWISTON                             UT      41.58     -111.5     1366.16
+425148   LOA                                  UT      38.24     -111.39    2147.87
+425186   LOGAN UTAH STATE UNIV                UT      41.44     -111.49    1455.79
+425190   LOGAN USU EXP STN                    UT      41.45     -111.49    1404.88
+425402   MANTI                                UT      39.15     -111.38    1746.95
+425477   MARYSVALE                            UT      38.27     -112.14    1792.68
+425610   MIDVALE                              UT      40.37     -111.55    1323.17
+425892   MOUNTAIN DELL DAM                    UT      40.45     -111.43    1676.83
+426340   NUTTERS RANCH                        UT      39.48     -110.15    1792.68
+426357   OAK CITY                             UT      39.23     -112.2     1547.26
+426424   OGDEN CAA AIRPORT                    UT      41.1      -112.01    1358.23
+426658   PARK VALLEY                          UT      41.49     -113.2     1713.41
+426686   PAROWAN                              UT      37.51     -112.5     1821.65
+426724   PAYSON                               UT      40.03     -111.46    1403.96
+427061   PROVO AIRPORT                        UT      40.14     -111.4     1365.85
+427271   RICHMOND                             UT      41.54     -111.49    1416.16
+427395   ROOSEVELT                            UT      40.18     -109.59    1553.05
+427686   SANTAQUIN                            UT      39.57     -111.47    1591.46
+427909   SNAKE CREEK POWERHOUSE               UT      40.33     -111.3     1814.02
+428771   TOOELE                               UT      40.32     -112.18    1469.51
+428973   UTAH LAKE LEHI                       UT      40.22     -111.54    1371.04
+429133   VERNON                               UT      40.05     -112.27    1672.26
+429165   WANSHIP DAM                          UT      40.48     -111.24    1814.02
+429595   WOODRUFF                             UT      41.32     -111.09    1933.84
+429717   ZION NATIONAL PARK                   UT      37.13     -112.59    1192.68
+430075   SWANTON                              VT      44.92     -73.13     36.6
+430499   BELLOWS FALLS                        VT      43.13     -72.45     91
+430563   BENNINGTON 2 NNW                     VT      42.92     -73.22     204.27
+431243   CAVENDISH                            VT      43.38     -72.6      244
+431360   CHELSEA                              VT      43.97     -72.47     228.66
+431580   CORNWALL                             VT      43.95     -73.22     104
+431786   DORSET                               VT      43.25     -73.1      299
+432769   ENOSBURG FALLS                       VT      44.92     -72.82     128.66
+432843   ESSEX JUNCTION 1 N                   VT      44.52     -73.12     105
+435044   MC INDOE FALLS                       VT      44.27     -72.07     146.34
+435278   MONTPELIER FAA AIRPORT               VT      44.2      -72.57     343.29
+435542   NEWPORT                              VT      44.93     -72.2      233
+435733   NORTHFIELD                           VT      44.15     -72.65     238
+436761   READSBORO 1 SE                       VT      42.75     -72.93     341.46
+437026   ST ALBANS BAY                        VT      44.8      -73.17     33.54
+437152   SEARSBURG STATION                    VT      42.87     -72.92     475.61
+437401   SOMERSET                             VT      42.97     -72.95     634
+437607   SOUTH HERO                           VT      44.63     -73.3      34
+438556   UNION VILLAGE DAM                    VT      43.8      -72.27     141.16
+438600   VERNON                               VT      42.77     -72.52     68.6
+438815   WATERBURY 1 NNE                      VT      44.35     -72.75     246.95
+439099   WEST BURKE                           VT      44.65     -71.98     274.39
+439984   WOODSTOCK                            VT      43.62     -72.52     241
+450217   APPLETON                             WA      45.49     -121.16    712.2
+450242   ARIEL DAM                            WA      45.58     -122.34    68.29
+450257   ARLINGTON                            WA      48.12     -122.08    21.95
+450482   BATTLE GROUND                        WA      45.47     -122.32    89.94
+450668   BICKLETON                            WA      46        -120.18    914.63
+450872   BREMERTON                            WA      47.34     -122.4     49.39
+450945   BUCKLEY 1 NE                         WA      47.1      -122       208.84
+451205   CATHLAMET 6 NE                       WA      46.16     -123.18    36.59
+451233   CEDAR LAKE                           WA      47.25     -121.44    475.61
+451330   CHEHALIS                             WA      46.4      -122.59    54.27
+451350   CHELAN                               WA      47.5      -120.02    341.46
+451395   CHEWELAH                             WA      48.15     -117.43    498.48
+451414   CHIMACUM 4 S                         WA      47.57     -122.46    76.22
+451679   CONCRETE                             WA      48.32     -121.45    82.32
+451691   CONNELL 12 SE                        WA      46.3      -118.46    328.66
+451759   COUGAR 4 SW                          WA      46.01     -122.21    158.54
+451783   COUPEVILLE 1 S                       WA      48.12     -122.42    15.24
+451934   CUSHMAN DAM                          WA      47.25     -123.13    231.71
+451992   DARRINGTON RANGER STN                WA      48.15     -121.36    167.68
+452037   DAYTON 9 SE                          WA      46.13     -117.51    681.4
+452066   DEER PARK                            WA      47.57     -117.26    644.51
+452197   DIXIE 4 SE                           WA      46.06     -118.06    716.46
+452609   EPHRATA                              WA      47.19     -119.33    388.72
+452675   EVERETT                              WA      47.59     -122.11    30.18
+453183   GLENWOOD                             WA      46.01     -121.17    578.05
+453284   GRAPEVIEW                            WA      47.2      -122.49    9.15
+453320   GRAYLAND                             WA      46.46     -124.05    4.57
+453329   GRAYS RIVER                          WA      46.22     -123.34    15.24
+453386   GROTTO                               WA      47.44     -121.25    258.84
+453502   HARRINGTON 5 S                       WA      47.25     -118.15    660.67
+453515   HARRINGTON 1 NW                      WA      47.29     -118.11    689.02
+453546   HATTON 8 E                           WA      46.46     -118.4     435.37
+454077   KAHLOTUS 4 SW                        WA      46.36     -118.36    408.54
+454154   KENNEWICK                            WA      46.13     -119.08    119.51
+454187   KEYPORT                              WA      47.42     -122.37    11.28
+454286   KOSMOS                               WA      46.3      -122.11    236.28
+454360   LA GRANDE                            WA      46.5      -122.19    283.54
+454430   LAKESIDE                             WA      47.5      -120.03    338.41
+454748   LONG BEACH EXP STN                   WA      46.22     -124.02    7.62
+454769   LONGVIEW                             WA      46.1      -122.55    7.01
+455128   MAZAMA 6 SE                          WA      48.32     -120.2     597.56
+455387   MILL CREEK DAM                       WA      46.05     -118.16    358.23
+455425   MINERAL                              WA      46.43     -122.11    451.22
+455549   MONTESANO                            WA      47.1      -123.39    12.2
+455613   MOSES LAKE 2 E                       WA      47.07     -119.12    353.66
+455678   MOUNT VERNON 3 WNW                   WA      48.26     -122.23    4.27
+455774   NASELLE                              WA      46.22     -123.49    6.1
+455801   NEAH BAY 1 E                         WA      48.22     -124.36    4.57
+455840   NEWHALEM                             WA      48.41     -121.15    160.06
+455844   NEWPORT                              WA      48.11     -117.03    650.91
+456262   PACKWOOD                             WA      46.37     -121.4     323.17
+456295   PALMER 3 SE                          WA      47.18     -121.51    280.49
+456534   PLAIN                                WA      47.47     -120.39    591.46
+456624   PORT ANGELES                         WA      48.07     -123.26    60.98
+456629   PORT ANGELES 14 SE                   WA      47.57     -123.16    231.71
+456768   PROSSER                              WA      46.15     -119.45    256.1
+456789   PULLMAN 2 NW                         WA      46.46     -117.12    775.91
+456803   PUYALLUP 2 W EXP STN                 WA      47.12     -122.2     15.24
+456846   QUILCENE 2 SW                        WA      47.49     -122.55    37.5
+456864   QUINAULT RIVER RANGER STN            WA      47.3      -123.49    67.07
+456880   QUINCY 1 S                           WA      47.13     -119.51    391.46
+456974   REPUBLIC                             WA      48.39     -118.44    792.68
+456982   REPUBLIC RANGER STN                  WA      48.39     -118.44    801.83
+457015   RICHLAND                             WA      46.16     -119.18    123.48
+457180   ROSALIA                              WA      47.14     -117.22    731.71
+457319   SAPPHO 8 E SNIDER RNG STN            WA      48.04     -124.07    231.71
+457544   SEQUIM 2 E                           WA      48.05     -123.03    15.24
+457584   SHELTON                              WA      47.12     -123.06    12.2
+457696   SKAMANIA FISH HATCHERY               WA      45.38     -122.13    134.15
+457727   SMYRNA                               WA      46.5      -119.4     170.73
+457773   SNOQUALMIE FALLS                     WA      47.33     -121.51    131.1
+457938   SPOKANE AIRPORT                      WA      47.38     -117.32    716.16
+457956   SPRAGUE                              WA      47.18     -117.59    586.89
+458034   STARTUP 1 E                          WA      47.52     -121.43    51.83
+458059   STEHEKIN 3 NW                        WA      48.2      -120.42    350.61
+458207   SUNNYSIDE                            WA      46.19     -120       227.74
+458286   TACOMA CITY HALL                     WA      47.15     -122.26    118.9
+458442   TIETON INTAKE                        WA      46.4      -121       695.12
+458688   UNDERWOOD 4 W                        WA      45.44     -121.36    384.15
+458931   WALLA WALLA WSO CITY                 WA      46.02     -118.2     289.33
+458959   WAPATO                               WA      46.26     -120.25    259.15
+459058   WELLPINIT                            WA      47.53     -117.59    746.95
+459079   WENATCHEE EXP STN                    WA      47.26     -120.21    243.9
+459327   WILSON CREEK                         WA      47.25     -119.07    389.02
+459397   WITHROW                              WA      47.43     -119.49    810.98
+464763   KEARNEYSVILLE                        WV      39.38     -77.88     168
+467427   REEDSVILLE EXP FARM                  WV      39.5      -79.83     536
+469281   WARDENSVILLE R M FARM                WV      39.1      -78.58     293
+470052   ELKHART LAKE                         WI      43.85     -88.01     372
+470054   UWM FIELD STATION                    WI      43.39     -88.02     265
+470055   SHOREWOOD WOODBURN                   WI      43.1      -87.9      201
+470265   APPLETON                             WI      44.32     -88.42     226
+470349   ASHLAND EXPERIMNT FARM               WI      46.57     -90.97     198
+471131   BRULE RANGER STN                     WI      46.5      -91.7      351
+471970   DALTON                               WI      43.53     -89.23     261
+473244   GRANTSBURG                           WI      45.77     -92.67     273
+473269   GREEN BAY WSO AIRPORT                WI      44.47     -88.43     229
+473405   HANCOCK EXP FARM                     WI      44.12     -89.53     328
+478027   SPOONER EXPERMNT FARM                WI      45.82     -91.88     335
+478267   STURGEON BAY EXP FARM                WI      44.87     -87.33     200
+479050   WEST BEND                            WI      43.4      -88.18     287
+480200   ALVA 5 SE                            WY      44.39     -104.2     1343.29
+480270   ARCHER                               WY      41.09     -104.39    1832.32
+480380   ARVADA 3 N                           WY      44.42     -106.06    1121.95
+480528   BARNUM 1 N                           WY      43.42     -106.55    1612.8
+480540   BASIN                                WY      44.23     -108.03    1176.83
+480552   BATES CREEK 2                        WY      42.38     -106.23    1804.88
+480605   BEDFORD                              WY      42.52     -110.54    1928.35
+480695   BIG PINEY                            WY      42.32     -110.07    2079.57
+480727   BILL 8 NE                            WY      43.22     -105.12    1380.79
+480740   BILLY CREEK                          WY      44.08     -106.44    1509.15
+480915   BORDER 3 N                           WY      42.15     -111.02    1865.85
+481240   BURLINGTON                           WY      44.27     -108.25    1351.22
+481547   CARPENTER                            WY      41.02     -104.18    1643.29
+481610   CENTENNIAL                           WY      41.18     -106.09    2461.59
+481675   CHEYENNE WSO AIRPORT                 WY      41.09     -104.49    1869.21
+481730   CHUGWATER                            WY      41.45     -104.49    1610.37
+481736   CHURCH BUTTES GAS PLT                WY      41.26     -110.02    2147.87
+482415   DEAVER                               WY      44.53     -108.36    1251.52
+482580   DILLINGER                            WY      44.07     -105.07    1312.8
+482595   DIVERSION DAM                        WY      43.14     -108.56    1699.39
+482725   DULL CENTER                          WY      43.25     -104.57    1346.04
+482995   ELK MOUNTAIN                         WY      41.41     -106.25    2216.46
+483073   ESTERBROOK                           WY      42.25     -105.22    1904.27
+483490   FORT LARAMIE 9 NW                    WY      42.23     -104.32    1451.22
+483855   GILLETTE                             WY      44.18     -105.27    1389.02
+483865   GILLETTE 18 SW                       WY      44.05     -105.43    1494.82
+483960   GLENROCK 14 SSE                      WY      42.4      -105.49    1959.45
+484065   GREEN RIVER                          WY      41.32     -109.29    1862.5
+484126   GUERNSEY DAM 2                       WY      42.18     -104.45    1371.95
+484411   HEART MOUNTAIN                       WY      44.42     -108.57    1460.37
+484440   HECLA                                WY      41.09     -105.11    2073.17
+484760   HULETT                               WY      44.41     -104.36    1145.12
+484796   HYATTVILLE                           WY      44.15     -107.35    1361.28
+484910   JACKSON                              WY      43.29     -110.46    1899.39
+484930   JELM                                 WY      41.06     -106.01    2278.96
+485055   KAYCEE                               WY      43.43     -106.38    1420.73
+485085   KEELINE                              WY      42.44     -104.46    1609.76
+485260   LA GRANGE                            WY      41.38     -104.1     1398.48
+485371   LANCE CREEK                          WY      43.03     -104.39    1348.17
+485372   LANCE CREEK 3 WNW                    WY      43.03     -104.42    1324.09
+485410   LARAMIE                              WY      41.18     -105.34    2189.02
+485420   LARAMIE 2 WSW                        WY      41.18     -105.38    2187.5
+485467   LAWVER 8 SW                          WY      43.48     -105.22    1478.96
+485525   LEO 6 SW                             WY      42.11     -106.5     1829.27
+485612   LINGLE 2 S                           WY      42.05     -104.2     1265.24
+485830   LUSK                                 WY      42.46     -104.26    1526.22
+486120   MEDICINE BOW                         WY      41.54     -106.12    2001.22
+486195   MIDWEST                              WY      43.26     -106.16    1478.66
+486595   MUDDY GAP                            WY      42.21     -107.28    1924.09
+486660   NEWCASTLE                            WY      43.51     -104.12    1365.85
+486935   OSAGE                                WY      43.59     -104.25    1317.07
+487115   PAVILLION                            WY      43.15     -108.41    1658.54
+487200   PHILLIPS                             WY      41.38     -104.29    1518.9
+487473   RAIRDEN                              WY      44.11     -107.57    1221.65
+487545   RECLUSE                              WY      44.45     -105.42    1265.24
+487548   RECLUSE 11 NNW                       WY      44.56     -105.48    1143.29
+487555   REDBIRD                              WY      43.15     -104.17    1185.06
+487810   ROCHELLE                             WY      43.36     -104.54    1370.73
+487840   ROCK SPRINGS                         WY      41.35     -109.13    1941.16
+487845   ROCK SPRINGS AP                      WY      41.36     -109.04    1909.45
+487955   SAGE                                 WY      41.52     -111       1891.77
+487980   SAND DRAW                            WY      42.45     -108.11    1847.56
+487990   SARATOGA                             WY      41.27     -106.49    2070.12
+487995   SARATOGA 4 N                         WY      41.3      -106.48    2070.73
+488160   SHERIDAN FIELD STN                   WY      44.51     -106.52    1158.54
+488209   SHOSHONI                             WY      43.14     -108.07    1472.56
+488475   SPENCER 10 NE                        WY      43.26     -104.1     1158.54
+488626   STORY                                WY      44.34     -106.53    1585.37
+488647   STRONER 2 NW                         WY      44.47     -105.05    1219.51
+488705   SUNDANCE                             WY      44.24     -104.21    1448.17
+488801   SUSSEX                               WY      43.42     -106.21    1372.56
+488845   TENNYSON                             WY      41.2      -104.23    1724.09
+488858   TEN SLEEP 16 SSE                     WY      43.49     -107.22    1426.83
+488995   TORRINGTON EXP FARM                  WY      42.05     -104.13    1249.39
+489000   TORRINGTON 1 S                       WY      42.03     -104.11    1245.43
+489207   UPTON 13 SW                          WY      43.56     -104.46    1457.32
+489604   WHALEN DAM                           WY      42.14     -104.37    1309.15
+489615   WHEATLAND                            WY      42.05     -104.55    1444.51
+489770   WORLAND                              WY      44.01     -107.57    1238.11
+489925   YODER                                WY      41.56     -104.18    1289.94
+820007   ASPEN RR2                            NS      45.3      -62.05     30
+6144475  LONDON A                             ON      43        -81.25     243.84
+6150916  BRAMPTON MOE                         ON      43.5      -79.7      167.64
+6153300  HAMILTON RBG                         ON      43.28     -79.88     353.87
+6158733  TORONTO LBP INTL AIRPORT             ON      43.5      -79.6      152.4
+8101000  MIRAMICHI A                          NB      47.03     -65.47     33.52
+8101600  FREDERICTON CDA                      NB      45.92     -66.62     39.62
+8202800  KENTVILLE CDA                        NS      45.07     -64.48     15.24
+8203700  NAPPAN CDA                           NS      45.77     -64.25     8.53
+8205990  TRURO                                NS      45.37     -63.27     39.92
+8300400  CHARLOTTETOWN CDA                    PE      46.25     -63.13     22.25
+8401501  DEER LAKE A                          PQ      49.25     -57.42     68.58
+8403600  ST JOHN'S WEST CDA                   NF      47.52     -52.78     114.3
+

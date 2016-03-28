@@ -1,0 +1,24 @@
+
+Jones, NC
+Number of Stations = 19
+
+
+Code 	Short Name                	Long Name                                         	# Stns	# Obs 	First Date	Last Date 	Min Value   	Max Value   	   Average
+-----	--------------------------	--------------------------------------------------	------	------	----------	----------	------------	------------	----------
+00010	WATER    TEMP     CENT    	TEMPERATURE, WATER (DEGREES CENTIGRADE)           	3     	161   	1976-08-19	1979-03-30	  1.00E+01  	  9.50E+00  	  1.66E+01
+00095	CNDUCTVY AT 25C   MICROMHO	SPECIFIC CONDUCTANCE (UMHOS/CM @ 25C)             	3     	143   	1976-08-19	1979-01-18	  1.10E+02  	  9.80E+01  	  7.27E+01
+00400	PH        SU              	PH (STANDARD UNITS)                               	3     	172   	1976-08-19	1979-03-30	  2.20E+00  	  7.40E+00  	  3.93E+00
+00435	T ACDITY CACO3    MG/L    	ACIDITY, TOTAL (MG/L AS CACO3)                    	3     	5     	1976-08-19	1976-10-14	  1.15E+00  	  5.80E-01  	  9.42E-01
+00600	TOTAL N  N        MG/L    	NITROGEN, TOTAL (MG/L AS N)                       	3     	168   	1976-08-19	1979-03-30	  1.00E+00  	  9.90E-01  	  1.63E+00
+00610	NH3+NH4- N TOTAL  MG/L    	NITROGEN, AMMONIA, TOTAL (MG/L AS N)              	3     	153   	1976-08-19	1979-03-30	  1.00E-01  	  9.70E-01  	  9.61E-01
+00612	UN-IONZD NH3-N    MG/L    	AMMONIA, UNIONZED                      (MG/L AS N)	3     	138   	1976-08-19	1979-03-30	  1.03E-07  	  9.94E-07  	  2.72E-04
+00619	UN-IONZD NH3-NH3  MG/L    	AMMONIA, UNIONIZED (CALC FR TEMP-PH-NH4)  (MG/L)  	3     	138   	1976-08-19	1979-03-30	  1.02E-06  	  9.92E-07  	  3.31E-04
+00625	TOT KJEL N        MG/L    	NITROGEN, KJELDAHL, TOTAL, (MG/L AS N)            	3     	106   	1977-09-16	1979-03-30	   .00E+00  	  9.70E-01  	  1.52E+00
+00630	NO2&NO3  N-TOTAL  MG/L    	NITRITE PLUS NITRATE, TOTAL 1 DET. (MG/L AS N)    	3     	107   	1977-09-16	1979-03-30	  1.00E-01  	  9.00E-02  	  4.17E-02
+00650	T PO4    PO4      MG/L    	PHOSPHATE, TOTAL (MG/L AS PO4)                    	3     	165   	1976-10-05	1979-03-30	   .00E+00  	  9.90E-02  	  3.54E-01
+00916	CALCIUM  CA-TOT   MG/L    	CALCIUM, TOTAL (MG/L AS CA)                       	3     	174   	1976-08-19	1979-03-30	   .00E+00  	  9.00E-01  	  5.40E+00
+00927	MGNSIUM  MG,TOT   MG/L    	MAGNESIUM, TOTAL (MG/L AS MG)                     	3     	174   	1976-08-19	1979-03-30	   .00E+00  	  9.90E-01  	  7.60E-01
+01045	IRON     FE,TOT   UG/L    	IRON, TOTAL (UG/L AS FE)                          	3     	173   	1976-08-19	1979-03-30	  1.00E+02  	  9.00E+01  	  3.98E+02
+46570	CAL HARD CA MG    MG/L    	HARDNESS, CA MG CALCULATED (MG/L AS CACO3)        	3     	174   	1976-08-19	1979-03-30	   .00E+00  	  9.78E+00  	  1.66E+01
+72019	DEPTH-FT BL LAND  SURFACE 	DEPTH TO WATER LEVEL (FEET BELOW LAND SURFACE)    	2     	10    	1975-11-11	1979-11-11	  1.00E+01  	  9.00E+00  	  3.04E+01
+82546	DEPTH FR M WL TO  MP  (FT)	WATER LEVEL,DISTANCE FROM MEASURING POINT  (FEET) 	14    	520   	1973-09-21	1988-07-08	  1.00E+01  	  9.97E+01  	  2.49E+01

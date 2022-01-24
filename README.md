@@ -6,7 +6,7 @@ Example chapter -- chapter 11
 
 R Update:
 
-When using R-4.1.2 and newer, the self starter function (the initial value module) in Section 6.1.3 needs to be updated (page 235). In the initial value function in a self starter function must include `...` in its argument list:
+When using R-4.1.2 and newer, the self starter function (the initial value module) in Section 6.1.3 needs to be updated (page 235). In the initial value function of a self starter function (the `selfStart` model) must include `...` in its argument list:
 ```r
 fplModelInit <- function(mCall, LHS, data, ...){
 ......
